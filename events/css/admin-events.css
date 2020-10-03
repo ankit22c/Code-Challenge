@@ -1,0 +1,39 @@
+.event-information h1 {
+	margin-bottom: 20px;
+}
+.event-shortcode-information code {
+	font-size: 18px;
+	font-weight: bold;
+}
+.event-shortcode-information .description {
+	font-size: 16px;
+	line-height: 1.2;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+}
+.event-export-block .page-title-action {
+	display: inline-block;
+	vertical-align: top;
+	top: auto;
+}
+.event-export-block {
+	padding-bottom: 20px;
+}
+.events-import-form-wrap label {
+	display: block;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 1.4;
+	margin-bottom: 9px;
+}
+.events-import-form-wrap {
+	padding-bottom: 20px;
+}
+.events-import-form-msg {
+	display: none;
+}
+.events-import-form-msg p {
+	margin: 0;
+	font-size: 18px;
+}

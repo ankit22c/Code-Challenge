@@ -1,0 +1,23 @@
+#events-search-form {
+	font-family: arial;
+}
+#events-search-form input[type="text"], 
+#events-search-form select {
+	height: 40px;
+	padding: 0 10px;
+	border: 1px solid #ccc;
+	width: 100%;
+	font-size: 15px;
+	font-family: arial;
+}
+#events-submit {
+    margin-top: 29px;
+    padding: 9px 20px;
+}
+.events-lists table {
+	white-space: nowrap;
+	width: 100%;
+}
+.event-loading {
+	display: none;
+}
